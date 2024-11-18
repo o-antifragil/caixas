@@ -1,0 +1,27 @@
+
+.caixa {
+    margin: 20px;
+    padding: 20px;
+    border: solid red;
+
+    background-color: aliceblue;
+}
+
+code {
+    background-color: gainsboro;
+    border-radius: 3px;
+    padding: 1.5px;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+body {
+    margin: 20px;
+    padding: 20px;
+
+    background-color: azure;
+    border: solid red;
+    line-height: 1.5;
+}
